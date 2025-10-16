@@ -85,26 +85,6 @@ I specialize in **REST APIs**, **Microservices**, and **SaaS solutions** built o
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="center">
-
-![Subrata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subratadebnath2507&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subratadebnath2507&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=subratadebnath2507&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🏆 **Achievements & Badges**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subratadebnath2507&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🤝 **Let's Connect**
 
 <p align="center">
